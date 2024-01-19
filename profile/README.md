@@ -21,6 +21,5 @@
 
 ---
 
-[![Gmail](https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=8257E5)](https://github.com/kipstech)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=8257E5)](https://www.linkedin.com/company/kipstech)
-[![Discord](https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=8257E5)](https://instagram.com/kips.tech)
+[![Instagram](https://img.shields.io/badge/Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=8257E5)](https://instagram.com/kips.tech)

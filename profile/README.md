@@ -13,7 +13,7 @@
 
 - Front-End
   
-![Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt)
+![Skills](https://skillicons.dev/icons?i=js,react,next,vue,nuxt)
 
 - Back-End
   

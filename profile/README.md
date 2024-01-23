@@ -9,11 +9,11 @@
 
 - Mobile
   
-![Skills](https://skillicons.dev/icons?i=dart,flutter,swift,kotlin,react)
+![Skills](https://skillicons.dev/icons?i=dart,flutter,react,swift,kotlin)
 
 - Front-End
   
-![Skills](https://skillicons.dev/icons?i=js,ts,react,next,angular)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,nuxt)
 
 - Back-End
   

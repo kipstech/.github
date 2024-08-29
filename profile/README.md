@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/f7e5b479-20c5-4e6c-a3d2-ec9ea5014edd" alt="kipslogo" min-width="400px" max-width="400px" width="500px" align="right">
 
 <p align="left"> 
-  ⟨⧸⟩ Knowledge, Innovation, Progress & Solutions
+  ⟨⧸⟩ Knowledge, Innovation, Products & Solutions
 </p>
 
 ---

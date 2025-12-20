@@ -17,7 +17,7 @@
 
 - Back-End
   
-![Skills](https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,nest)
+![Skills](https://skillicons.dev/icons?i=go,python,nodejs,nest)
 
 ---
 

@@ -1,11 +1,12 @@
 
-<img src="https://github.com/user-attachments/assets/dfdd25fb-4a72-49ee-aee5-4c64864ba167" alt="kipslogo" min-width="400px" max-width="400px" width="500px" align="right">
+<img src="https://github.com/user-attachments/assets/4576f5d3-2a8b-43ca-8f3e-4daeebeded46" alt="kipslogo" min-width="200px" max-width="200px" width="400px" align="right">
+
 
 <p align="left"> 
   ⟨⧸⟩ Knowledge, Innovation, Products & Solutions
 </p>
 
----
+
 
 - Mobile
   

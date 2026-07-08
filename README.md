@@ -1,1 +1,2 @@
-![logokips-vertical-branca](https://github.com/kipstech/.github/assets/104142117/8c4c618f-7811-49a5-a6c6-f467a737d7f6)
+<img width="1108" height="202" alt="logokips-horizontal-branca" src="https://github.com/user-attachments/assets/2d6db652-0984-43ce-8c0a-42ee05f691e8" />
+
